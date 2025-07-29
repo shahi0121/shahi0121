@@ -1,59 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shalini</h1>
-<h3 align="center">Cyber Security Student | Ethical Hacking Enthusiast</h3>
+<h1 align="center">✨ Welcome to My Tech Space ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="300" />
-</p>
-
-<h3 align="center">🌟 Dreaming Big | Learning Daily 🧚</h3>
-
-<p align="center">
-  🚀 Welcome to my tech space! 🚀
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Tech Girl" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👩‍💻 About Me
 
-- 🔐 I’m currently learning **Cyber Security & Ethical Hacking**
-- 🎯 I love building secure systems and exploring vulnerabilities
-- 🌱 I’m always improving and growing daily
-- 💬 Ask me about **Cyber, Linux, or Tech Stuff**
-- 📫 Email: `your.email@example.com`
+- 🌱 Cyber Security & Ethical Hacking Enthusiast  
+- 🎯 Dreaming Big | Learning Daily | Building Projects  
+- 💬 Always open to tech talk & collabs!
 
 ---
 
-### 📲 Connect With Me
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,linux,git,github" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourgithub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" />
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⚡ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,html,css,js,git,github,bash" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Explorer;Web+Dev+Learner;Dreaming+Big;Let's+Connect+%F0%9F%92%8C" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-2962FF?style=flat-square&logo=cisco&logoColor=white" />
-</p>
-
----
-
-<p align="center">🦋 Thanks for visiting my profile 🦋</p>
