@@ -2,9 +2,8 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=Cyber+Security+Student+%7C+Ethical+Hacking+Enthusiast;Dreaming+Big+%7C+Learning+Daily+%F0%9F%A7%9A;Welcome+to+my+tech+space!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&center=true&vCenter=true&multiline=true&width=600&lines=Cyber+Security+Student+%7C+Hacking+Enthusiast;Dreaming+Big+%7C+Learning+Daily+%F0%9F%A7%9A;Welcome+to+my+tech+space!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 
 ---
 
