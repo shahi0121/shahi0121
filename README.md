@@ -1,44 +1,41 @@
-# Hi, I'm Shahi 👋
+<h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
+<h3 align="center">🌼 A Dreamer | 💻 Cyber Security Student | 🚀 Future Ethical Hacker</h3>
 
-💻 B.Tech Cyber Security Student  
-🌟 Dreaming Big | Growing One Skill at a Time  
-🧠 Interested in Ethical Hacking, Web Dev & AI  
-
----
-
-### 🌈 What I’m learning right now:
-- HTML, CSS, GitHub
-- Ethical Hacking Basics
-- PowerShell + Cybersecurity Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=✨+Learning+Cyber+Security+%26+Web+Dev;🌱+B.Tech+CS+Student+%7C+India;💫+Open+Source+Lover+%7C+Beginner+Hacker;🎯+Building+One+Project+at+a+Time" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📚 My Goals
-- Build cool tech projects  
-- Create my dream GitHub profile  
-- Learn step-by-step and never give up 💪
+### 💫 About Me:
+- 🌐 Currently learning **HTML, CSS, GitHub & Ethical Hacking Basics**
+- 🔐 Interested in **Web Security, Network Analysis, and Linux Tools**
+- 🎯 Building projects for my portfolio — step by step, day by day!
+- ✨ I believe in **Consistency, Curiosity & Creativity**
 
 ---
 
-### 📩 Let’s connect!
-[![LinkedIn](www.linkedin.com/in/shalini-dhiman-5b9529282)
+### 🛠️ Tools & Tech:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBkZjE4M3l2eHgwNnN4azFxaXd0eW0xOHZ6ZHIzM3Ruc2FkMG9haiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N256GFy1u6M6Y/giphy.gif" width="500" />
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=tokyonight" width="47%"/>
+</p>
 
 ---
 
-## 🔧 Skills & Tools I'm Learning
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+### 🌸 Let's Connect:
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourprofile)
 
 ---
 
-## 📊 GitHub Stats
-[![Shahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical)](https://github.com/shahi0121)
-
+> *"Stay curious. Stay consistent. Your dream job is waiting."* 🌙  
