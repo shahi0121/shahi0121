@@ -18,9 +18,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -29,8 +29,7 @@
 
 - 🌐 [Portfolio Website](https://yourportfolio.site)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-
-📫 **Always open for collabs, learning & creative challenges.**
+- 📫 **Always open for collabs, learning & creative challenges.**
 
 ---
 
