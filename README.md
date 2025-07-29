@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/GIF/giphy.gif" alt="Cute Animated Welcome" width="400"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Cute Animated Welcome" width="400"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=green" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Web_Dev-E34F26?style=flat&logo=html5&logoColor=white" alt="Web Development" />
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm on a journey to become a skilled guardian of the digital realm, constantly l
 ## 🕵️‍♀️ Cyber Puzzle Challenge!
 
 <p align="center">
-  <img src="https://media.tenor.com/P1E5h2f9s54AAAAi/detective-curious.gif" alt="Thinking detective" width="100"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/thinking.gif" alt="Thinking detective" width="100"/>
 </p>
 
 Welcome, junior analyst! A suspicious email just landed in your inbox. It looks urgent and asks you to click a link to "verify your account." What's your first move?
@@ -61,9 +61,9 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
   The best first move is **1. 🕵️‍♀️ Examine the sender's email address and domain closely.** This is a key step in identifying phishing attempts. Never click suspicious links without verifying! Stay vigilant!
   <br><br>
   <p align="center">
-    <img src="https://media.tenor.com/fL3x5tXlB8AAAAi/sparkle-glitter.gif" alt="Sparkle" width="50"/>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/sparkle.gif" alt="Sparkle" width="50"/>
     *You've solved the puzzle! Security success!*
-    <img src="https://media.tenor.com/fL3x5tXlB8AAAAi/sparkle-glitter.gif" alt="Sparkle" width="50"/>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/sparkle.gif" alt="Sparkle" width="50"/>
   </p>
 </details>
 
@@ -72,7 +72,7 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
 ### 🌱 My Growing Projects (Coming Soon!)
 
 <p align="center">
-  <img src="https://media.tenor.com/uS27Jg9T_m0AAAAi/loading-load.gif" alt="Loading bar" width="150"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Loading_bar.gif" alt="Loading bar" width="150"/>
 </p>
 
 I'm currently nurturing ideas and writing my first lines of secure code! You'll soon find exciting projects here like:
@@ -93,5 +93,5 @@ Stay tuned as these digital seeds blossom into full-fledged projects! ✨
 
 <p align="center">
   Thanks for stopping by! Let's build a safer digital world together! 🌐
-  <img src="https://media.tenor.com/gK2y00WbU0AAAAAi/waving-bye.gif" alt="Waving goodbye" width="50"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving goodbye" width="50"/>
 </p>
