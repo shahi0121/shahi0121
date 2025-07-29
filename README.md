@@ -1,47 +1,30 @@
-<h1 align="center">✨ Welcome to My Tech Space ✨</h1>
+<h1 align="center">Welcome to My Tech Space 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Animated Tech Girl" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Tech GIF">
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-- 🌱 Cyber Security & Ethical Hacking Enthusiast  
-- 🎯 Dreaming Big | Learning Daily | Building Projects  
-- 💬 Always open to tech talk & collabs!
-
----
-
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,linux,git,github" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" />
+  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cyber+Security+Explorer;Web+Dev+Learner;Dreaming+Big;Let's+Connect+%F0%9F%92%8C" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">🌸 Thanks for stopping by! 🌸</p>
