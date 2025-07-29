@@ -27,12 +27,28 @@
 
 ### 🔗 Let’s Connect!
 
-- 🌐 [Portfolio Website](https://yourportfolio.site)
+- 🌐 [My Portfolio](https://yourportfolio.site)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📫 **Always open for collabs, learning & creative challenges.**
+- 📧 Reach me: **your.email@example.com**
+- 🤝 Open to: *Collaborations · Freelance Projects · Internships · Tech Talks*
 
 ---
 
 ### ✨ Fun Quote
 
-> “Creativity is intelligence having fun.” – *Albert Einstein*
+> “Creativity is intelligence having fun.”  
+> — *Albert Einstein*
+
+---
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing **B.Tech in Cyber Security**
+- 💻 Exploring **Ethical Hacking, Linux, and Web App Security**
+- ✍️ Building: *Dreamy Wardrobe – A Pinterest-style shopping web app*
+- 🌱 Learning: **Network Security · Web Exploitation · Python Automation**
+- 🧠 Passionate about **Tech, Design, and Digital Freedom**
+- 🌈 Fun fact: I turn coffee ☕ into secure code 🛡️
+
+---
+
