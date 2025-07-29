@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="90%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/Halfrost-Field/master/img/welcome_banner.gif" alt="Welcome" width="700" />
 </p>
 
 <h1 align="center">
@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=430&lines=Cybersecurity+Enthusiast;Python+%26+C%2B%2B+Developer;Web+%26+Network+Explorer;Digital+Security+Guardian!&center=true&vCenter=true&size=22" alt="Typing Effect" />
 </p>
 
@@ -20,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/main/line.gif" alt="Animated Line Divider" width="90%"/>
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/GIF/line.gif" alt="Animated Line Divider" width="90%"/>
 </p>
 
 <p align="center">
@@ -53,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=dark&hide=html,css" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
