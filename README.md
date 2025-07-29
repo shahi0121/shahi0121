@@ -37,14 +37,61 @@ I'm on a journey to become a skilled guardian of the digital realm, constantly l
   <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  </p>
+</p>
 
 ---
 
-## 🎮 Play a Little Game!
+## 🕵️‍♀️ Cyber Puzzle Challenge!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNmbTR2aWJ3OHlxaG9rYnF4b3Rwa2NsbjExaW94NjRrd3VqcnUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqU3s8vB94Xm75q8Vf/giphy.gif" alt="Pixelated Game Character" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlNHl2NXc3dmc5cWcyYXd1dW1vODQyc3J5eG8wbXNpZWMwM25qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpwfJ9hJ4zP9K/giphy.gif" alt="Thinking detective" width="100"/>
 </p>
 
-Let's imagine a tiny game to brighten your visit! Imagine you're a little pixelated character navigating a digital maze. Your goal? To find the hidden "Secure Code Gem"!
+Welcome, junior analyst! A suspicious email just landed in your inbox. It looks urgent and asks you to click a link to "verify your account." What's your first move?
+
+1.  🕵️‍♀️ **Examine the sender's email address and domain closely.** (Look for typos or unusual addresses.)
+2.  🗑️ **Immediately click the link to see what happens.** (Curiosity often leads to trouble!)
+3.  📢 **Forward it to all your friends to warn them.** (Spreading unverified info can be risky.)
+
+(Scroll down for the answer!)
+
+<details>
+  <summary>Click for the Answer!</summary>
+  <br>
+  The best first move is **1. 🕵️‍♀️ Examine the sender's email address and domain closely.** This is a key step in identifying phishing attempts. Never click suspicious links without verifying! Stay vigilant! 
+  <br><br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVzYzN4N3l6Mm91azg1ajlpdnd5Z3R6ZTFvd29naDRhYXAzOHFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFIfuwM0JQQGdEMh25/giphy.gif" alt="Sparkle" width="50"/>
+    *You've solved the puzzle! Security success!*
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVzYzN4N3l6Mm91azg1ajlpdnd5Z3R6ZTFvd29naDRhYXAzOHFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFIfuwM0JQQGdEMh25/giphy.gif" alt="Sparkle" width="50"/>
+  </p>
+</details>
+
+---
+
+### 🌱 My Growing Projects (Coming Soon!)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4YzV5OWd0MTI1bXNpNWV3M2JicXp6MW5zYm95ZmZ6OXk4d2V2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbftgojY0M7C/giphy.gif" alt="Loading bar" width="150"/>
+</p>
+
+I'm currently nurturing ideas and writing my first lines of secure code! You'll soon find exciting projects here like:
+
+* **`python-cli-security-scanner`**: A simple Python script for basic network/port scanning.
+* **`web-login-form-hardening`**: Demonstrations of secure web form practices (PHP/SQL).
+* **`c-plus-plus-memory-safe-examples`**: Exploring safe memory handling in C++.
+
+Stay tuned as these digital seeds blossom into full-fledged projects! ✨
+
+---
+
+### My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  Thanks for stopping by! Let's build a safer digital world together! 🌐
+  <img src="https://media.giphy.com/media/Qz4RhrbH0R49i/giphy.gif" alt="Waving goodbye" width="50"/>
+</p>
