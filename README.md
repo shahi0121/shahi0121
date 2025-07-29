@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cute Animated Welcome" width="400"/>
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/GIF/giphy.gif" alt="Cute Animated Welcome" width="400"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I'm on a journey to become a skilled guardian of the digital realm, constantly l
 ## 🕵️‍♀️ Cyber Puzzle Challenge!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlNHl2NXc3dmc5cWcyYXd1dW1vODQyc3J5eG8wbXNpZWMwM25qYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpwfJ9hJ4zP9K/giphy.gif" alt="Thinking detective" width="100"/>
+  <img src="https://media.tenor.com/P1E5h2f9s54AAAAi/detective-curious.gif" alt="Thinking detective" width="100"/>
 </p>
 
 Welcome, junior analyst! A suspicious email just landed in your inbox. It looks urgent and asks you to click a link to "verify your account." What's your first move?
@@ -58,12 +58,12 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
 <details>
   <summary>Click for the Answer!</summary>
   <br>
-  The best first move is **1. 🕵️‍♀️ Examine the sender's email address and domain closely.** This is a key step in identifying phishing attempts. Never click suspicious links without verifying! Stay vigilant! 
+  The best first move is **1. 🕵️‍♀️ Examine the sender's email address and domain closely.** This is a key step in identifying phishing attempts. Never click suspicious links without verifying! Stay vigilant!
   <br><br>
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVzYzN4N3l6Mm91azg1ajlpdnd5Z3R6ZTFvd29naDRhYXAzOHFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFIfuwM0JQQGdEMh25/giphy.gif" alt="Sparkle" width="50"/>
+    <img src="https://media.tenor.com/fL3x5tXlB8AAAAi/sparkle-glitter.gif" alt="Sparkle" width="50"/>
     *You've solved the puzzle! Security success!*
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVzYzN4N3l6Mm91azg1ajlpdnd5Z3R6ZTFvd29naDRhYXAzOHFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFIfuwM0JQQGdEMh25/giphy.gif" alt="Sparkle" width="50"/>
+    <img src="https://media.tenor.com/fL3x5tXlB8AAAAi/sparkle-glitter.gif" alt="Sparkle" width="50"/>
   </p>
 </details>
 
@@ -72,7 +72,7 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
 ### 🌱 My Growing Projects (Coming Soon!)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc4YzV5OWd0MTI1bXNpNWV3M2JicXp6MW5zYm95ZmZ6OXk4d2V2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbftgojY0M7C/giphy.gif" alt="Loading bar" width="150"/>
+  <img src="https://media.tenor.com/uS27Jg9T_m0AAAAi/loading-load.gif" alt="Loading bar" width="150"/>
 </p>
 
 I'm currently nurturing ideas and writing my first lines of secure code! You'll soon find exciting projects here like:
@@ -88,10 +88,10 @@ Stay tuned as these digital seeds blossom into full-fledged projects! ✨
 ### My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   Thanks for stopping by! Let's build a safer digital world together! 🌐
-  <img src="https://media.giphy.com/media/Qz4RhrbH0R49i/giphy.gif" alt="Waving goodbye" width="50"/>
+  <img src="https://media.tenor.com/gK2y00WbU0AAAAAi/waving-bye.gif" alt="Waving goodbye" width="50"/>
 </p>
