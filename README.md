@@ -1,53 +1,63 @@
-<h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Aspiring Cyber Security Analyst | B.Tech CSE | Ethical Hacking | Web Developer | PCS 2026 Aspirant</h3>
+<h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
+<h3 align="center">A passionate Cyber Security + Ethical Hacking + Web Dev Enthusiast from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ### 👩‍💻 About Me:
-- 🔐 I'm a **Cyber Security Enthusiast**.
-- 📚 Currently pursuing **B.Tech in CSE - Cyber Security**.
-- 💻 Passionate about **Ethical Hacking**, **Linux**, and **Web Development**.
-- 🏹 Dreaming big: **PCS Officer 2026**, working hard each day.
-- ✍️ Currently learning **PowerShell**, **Wireshark**, **Linux OS**, and **PHP**.
-- 📩 Connect with me on LinkedIn:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
-- 🌐 Check out my GitHub Profile:  
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shahi0121)
+- 🎓 B.Tech (Cyber Security) | 3rd Year | GNA University  
+- 🛡️ Exploring Ethical Hacking, Kali Linux, and Wireshark  
+- 🌐 Building `Dreamy Wardrobe` - a PHP + MySQL Pinterest-style web app  
+- 💬 Ask me about **Cybersecurity**, **PHP**, **Linux**, or **GitHub magic**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shalini-dhiman-5b9529282/) | [GitHub](https://github.com/shahi0121)
 
 ---
 
-### 🧰 Tech Stack:
+### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahi0121&theme=radical" width="45%" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" title="PHP"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/linux.png" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-wireshark-cyber-security-flat-flat-juicy-fish.png" title="Wireshark"/>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
 </p>
 
 ---
 
-### 🕹️ Mini Game Zone (Working Game!)  
-> 👉 Click below to **play a game** directly in your browser!
+### 🎮 Play a Game with Me
 
-[![Play Snake](https://img.shields.io/badge/-🎮%20Play%20Snake%20Game-brightgreen?style=for-the-badge)](https://snake-game-react-js.vercel.app/)
+> Click to play a fun **snake game** 🎯 right inside GitHub!
+
+<a href="https://shahi0121.github.io/snake-game/" target="_blank">
+  <img src="https://img.shields.io/badge/Play%20Snake%20Game-%2300f?style=for-the-badge&logo=googlegames" alt="Play Snake Game">
+</a>
 
 ---
 
-### 🪄 Fun Quote
+### 📊 GitHub Stats
 
-> “Cybersecurity is not just about firewalls and protocols, it’s about mindset and mission.” 🔐
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=tokyonight" height="180px"/>
+</p>
 
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shalini-dhiman-5b9529282/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shahi0121" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
+  </a>
+</p>
