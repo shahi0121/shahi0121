@@ -58,13 +58,3 @@
 
 ---
 
-## ✅ Next Step:
-
-Replace:
-- `yourusername` → your GitHub username  
-- `your-link` → your LinkedIn  
-- `youremail@gmail.com` → your email  
-- Anime GIFs if you want different ones (I can send more options)  
-- Add aesthetic Canva banner (if you want a header)
-
-Would you like me to help you customize this and send a copy-ready version for your GitHub?
