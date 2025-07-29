@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&multiline=true&width=800&lines=Passionate+Web+Developer+%7C+Tech+Explorer;Cyber+Security+Student+%7C+Creative+Mind;Design+Lover+%7C+Problem+Solver;Always+Learning+%7C+Dreaming+Big" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&multiline=true&width=800&lines=Passionate+%7C+Tech+Explorer;Cyber+Security+Student+%7C+Creative+Mind;Design+Lover+%7C+Problem+Solver;Always+Learning+%7C+Dreaming+Big" alt="Typing SVG" />
 </p>
 
 ---
