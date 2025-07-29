@@ -19,9 +19,9 @@
 
 ### 🧠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -36,6 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahi0121&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,7 +53,7 @@
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -66,5 +67,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh6cDExaDZvYXZ6aW5vOHhxcmU5a2UybXUxaWFlamJmNWxydnRnaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" height="200"/>
 </p>
-
----
