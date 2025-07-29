@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Shalini Dhiman</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Student;Future%20Ethical%20Hacker;Dreaming%20Big%20%F0%9F%92%AB;Loves%20Coding%20%26%20Design" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Student;Dreaming%20Big%20%F0%9F%92%AB;Loves%20Coding%20%26%20Design" />
 </p>
 
 ---
@@ -33,7 +33,6 @@
 
 ### 📬 Contact Me:
 - 📮 Email: `youremail@gmail.com`
-- 📸 Pinterest Dream Board: [Your Pinterest link]
 - 🌐 Portfolio: Coming soon...
 
 ---
