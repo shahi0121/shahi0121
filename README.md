@@ -38,8 +38,6 @@
 
 ---
 
-### ⌨️ Typing Animation
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cyber+Security+Explorer;Web+Dev+Learner;Dreaming+Big;Let's+Connect+%F0%9F%92%8C" alt="Typing SVG" />
 </p>
