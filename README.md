@@ -1,8 +1,3 @@
-<!-- Banner / Cover Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/banner-image.png" alt="Banner" />
-</p>
-
 <h1 align="center">Welcome to my profile 👋</h1>
 
 <!-- Typing SVG -->
