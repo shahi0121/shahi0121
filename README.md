@@ -1,42 +1,55 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Cute Animated Welcome" width="400"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving Hand" width="60" />
+</p>
+
+<h1 align="center">Hello, I'm Shalini Dhiman! ✨</h1>
+
+<p align="center">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=shahi0121.shahi0121" title="Visitor Count">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=shahi0121.shahi0121" alt="Visitor Count"/>
+  </a>
+  </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=green" alt="Cybersecurity" />
+  A dedicated cybersecurity student, digging into the fascinating world of digital defense and offense. 
+  <br> My GitHub is a little corner where I'm planting seeds of knowledge, growing my skills, and learning to protect our digital future! 🌱
+</p>
+
+---
+
+## 💻 My Digital Toolkit & Expertise
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Web_Dev-E34F26?style=flat&logo=html5&logoColor=white" alt="Web Development" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=green" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/-Networking-000000?style=flat&logo=wireshark&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/-Ethical_Hacking-000000?style=flat&logo=kali-linux&logoColor=white" alt="Ethical Hacking" />
 </p>
 
 ---
+
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=dark&hide=html,css" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🌸 Welcome to My Digital Garden! 🌸
-
-Hey there! I'm Shalini Dhiman, a passionate cybersecurity student digging into the fascinating world of digital defense and offense. Think of my GitHub as a little corner where I'm planting seeds of knowledge, growing my skills, and learning to protect our digital future! 🌱
-
-**My current tools and tech adventures include:**
-
-* **Languages:** Python (my go-to for automation & scripting), C++ (understanding the deeper mechanics), PHP & SQL (exploring web & database vulnerabilities).
-* **Operating Systems:** Navigating the cybersecurity landscape with Ubuntu (for daily tasks & server setups) and Kali Linux (for ethical hacking explorations).
-* **Web & Network:** Learning the ropes of how the internet works to better secure it.
-
-I'm on a journey to become a skilled guardian of the digital realm, constantly learning, experimenting, and growing. Let's connect and share the cybersecurity magic! ✨
-
-<p>
-  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Wakatime Stats"/>
 </p>
 
 ---
@@ -85,11 +98,13 @@ Stay tuned as these digital seeds blossom into full-fledged projects! ✨
 
 ---
 
-### My GitHub Activity
+## 📫 Connect with Me!
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  </p>
 
 <p align="center">
   Thanks for stopping by! Let's build a safer digital world together! 🌐
