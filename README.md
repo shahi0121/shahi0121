@@ -1,20 +1,28 @@
-<h1 align="center">Hi there 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">💻 Cybersecurity Enthusiast | 🐧 Linux Explorer | 🕵️‍♀️ Ethical Hacker-in-Progress</h3>
-
+<h1 align="center">Hey there! I'm Shalini Dhiman ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner+from+Punjab!;Exploring+Kali+Linux%2C+Wireshark%2C+SQL+%26+more;Loves+anime+%2B+aesthetic+tech+vibes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80;Anime+Fan+%F0%9F%8C%8D;Dreamer+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F;Always+Learning...+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 Tools I’ve Worked With
+### 💖 About Me  
+- 🌱 I'm a Cybersecurity student exploring hacking, Linux tools, and cool tech  
+- 💻 Tools I've worked with: **Kali Linux**, **Ubuntu**, **Wireshark**, **SQL**, **Burp Suite**, **Metasploit**  
+- 🌐 Learning Ethical Hacking + AI + Web Dev  
+- ✨ I love aesthetic designs, writing content, and Pinterest vibes  
+- 💬 Ask me about tech, anime, or productivity hacks!
+
+---
+
+### ⚙️ Tools & Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-F16529?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -22,9 +30,9 @@
 ### 🌸 Anime Moodboard
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="120">
 </p>
 
 ---
@@ -32,36 +40,31 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalinidhiman&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalinidhiman&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Shalini's GitHub Stats"/>
 </p>
 
 ---
 
-### 🌐 Let’s Connect!
+### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shalinidhiman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shalinidhiman@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-> 💬 “Dreamy vibes. Secure systems. And a cup of late-night coffee ☕ — that’s how I code!”
+> 🌟 “Stay dreamy, stay hacking, stay kind.”
 
 ---
 
-## 🔧 How to Use:
-1. Create a new repo with your **GitHub username** (e.g. `shalinidhiman/shalinidhiman`).
-2. Add a `README.md` file.
-3. Paste this code inside it.
-4. Customize links like LinkedIn and email.
+## ✅ Next Step:
 
----
+Replace:
+- `yourusername` → your GitHub username  
+- `your-link` → your LinkedIn  
+- `youremail@gmail.com` → your email  
+- Anime GIFs if you want different ones (I can send more options)  
+- Add aesthetic Canva banner (if you want a header)
 
-Agar tum chaho to mai **animated badges, visitor counter, pinned repos** bhi add kar sakti hu — bas batana!  
-Would you like me to turn this into a downloadable `.md` file for you now?
+Would you like me to help you customize this and send a copy-ready version for your GitHub?
