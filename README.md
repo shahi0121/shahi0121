@@ -1,55 +1,42 @@
-<h1 align="center">Hi there, I'm Shalini 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F36CFF&center=true&vCenter=true&width=500&lines=💻+Turning+Ideas+into+Reality;🚀+Dreaming+in+Code+%26+Pixels;🎯+Obsessed+with+Clean+Design+%26+Code;🎨+Design.+Code.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&multiline=true&width=800&lines=Passionate+Web+Developer+%7C+Tech+Explorer;Cyber+Security+Student+%7C+Creative+Mind;Design+Lover+%7C+Problem+Solver;Always+Learning+%7C+Dreaming+Big" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💼 Connect with Me
+### 💻 Tech Stack I Work With:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shalinidhiman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shalinidhiman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="animation:bounce 2s infinite;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" style="animation:bounce 2s infinite;" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Let's Connect!
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="margin: 10px;" />
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 📬 Feel free to reach out for collaboration, projects, or just to say hi!
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaliniDhiman&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaliniDhiman&theme=radical" width="400"/>
-</p>
+> "Creativity is intelligence having fun." — Albert Einstein  
+> I love blending creativity with logic — whether it's coding a website or designing something beautiful.
 
 ---
 
-### 💡 Fun Fact
-> “I code like it’s art — every pixel matters, every semicolon speaks.”
+### ✨ Cover Image
 
----
-
-Let me know if you want:
-- Pinterest or portfolio link added
-- Profile image style
-- Background or animated cover/banner
-
-I'll generate it for you 💥
+![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
+*(Optional: replace with the image you uploaded
