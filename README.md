@@ -1,76 +1,64 @@
-<h1 align="center">✨ Hey there, I'm Shalini Dhiman ✨</h1>
-
+<!-- CUTE GIF HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300px" alt="coding girl" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <b><i>🚀 Cyber Security Enthusiast | Aspiring Ethical Hacker | Dreaming SDM 🧠✨</i></b>
-</p>
+<h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
+<h3 align="center">A Cyber Security Enthusiast & Dream Coder ✨</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 B.Tech Cyber Security Student @ GNA University  
-- 🎯 Preparing for PCS (Punjab Civil Services)  
-- 🌱 Currently learning Ethical Hacking, Linux, and Web Exploitation  
-- 🛍️ Building my dream aesthetic project: Dreamy Wardrobe  
-- 🎯 Goal: Crack PCS + Become a Cyber Sec Pro + Inspire Girls in Tech  
+
+- 🎓 B.Tech in Cyber Security (GNA University)  
+- 💻 Passionate about Ethical Hacking, Linux, and Open Source  
+- ✍️ I love writing, blogging, and designing tech + lifestyle content  
+- 🌐 Always curious to explore the world of hacking & defense!  
 
 ---
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kali_org/kali_org-icon.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" width="40" />
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,linux,github,git,vscode&theme=light" />
+  <br/>
+  <img src="https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KaliLinux-5578EB?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-FC6D26?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🕹️ Fun Zone – Play a Game!
+
+> 🐍 Click below to play a cute Snake Game directly in your browser.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 🎮 Game Zone (Stress Buster 👇)
-
-<p align="center">
-  <a href="https://mariohtml5.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Mario🎮-Click%20Here-red?style=for-the-badge&logo=supermario" />
+  <a href="https://snake-zaan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-Game-green?style=for-the-badge&logo=gamepad&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight" alt="Shalini's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahi0121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/shahi0121" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300px" alt="cute gif" />
+  <a href="https://linkedin.com/in/shalini-dhiman-5b9529282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shahi0121">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center"><i>"Stay Dreamy, Stay Cyber!" 💜</i></p>
