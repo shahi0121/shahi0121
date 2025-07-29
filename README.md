@@ -1,56 +1,61 @@
 <h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">🌐 Versatile Tech Explorer | 🛡 Cybersecurity Enthusiast | 🖤 Anime Vibes</h3>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 Currently exploring **Ethical Hacking, Cybersecurity Tools, and AI**
-- 🌱 Learning **Network Security**, **Wireshark**, **Linux**, **SQL**, and more
-- 👩‍💻 Tools I use: **Kali Linux**, **Ubuntu**, **Wireshark**, **Burp Suite**, **VS Code**
-- 🎯 Passionate about **Tech, Anime, and Creativity**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
-
----
-
-### 🧠 Skills & Tools
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679B1?style=for-the-badge&logo=wireshark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">🚀 Cyber Security Student | Tech Enthusiast | Future Ethical Hacker</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=radical" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+Cyber+World+🔐;Always+Learning+New+Things+💡;Catch+Me+Breaking+Things+Ethically+😎" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📺 Anime Mood Board
+### 👩‍💻 About Me:
+- 🎓 I'm a B.Tech Cyber Security student passionate about Digital Forensics, Linux, and Networking.
+- 🛠️ Tools I’ve worked with: **Kali Linux**, **Wireshark**, **Ubuntu**, **SQL**, **Burp Suite**.
+- 👨‍💻 I’m currently building projects in Ethical Hacking and Cyber Defense.
+- 📚 Always exploring topics like penetration testing, secure coding, and AI in cybersecurity.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cd/ba/9f/cdba9fd313e7d4ebda179c732fae9fa4.gif" height="150"/>
-  <img src="https://media.tenor.com/fxv0GuvWmR4AAAAC/anime-anime-aesthetic.gif" height="150"/>
-  <img src="https://media.tenor.com/JHboFErKH6kAAAAd/anime-girl.gif" height="150"/>
+---
+
+### 📫 Connect With Me:
+<p align="left">
+  <a href="https://github.com/shahi0121" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/shahi0121"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-> 🧁 “Code like nobody’s watching. Hack like a queen. Dream like an anime character.”
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=radical" alt="Shalini's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=radical" />
+</p>
 
 ---
+
+### 🎯 Fun Fact:
+> "I use dark mode not because it's cool, but because I'm always in terminal!" 😎
+
+---
+
+### 💬 Quote that drives me:
+> *“Cybersecurity is not just about IT, it’s about securing dreams.”*
+
+---
+
+🧡 _Thanks for visiting my profile!_  
+_Keep exploring, keep learning!_
 
