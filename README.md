@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving Hand" width="60" />
+  <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/main/hi.gif" alt="Waving Hand" width="60" />
 </p>
 
 <h1 align="center">Hello, I'm Shalini Dhiman! ✨</h1>
 
 <p align="center">
-  <a href="https://visitor-badge.glitch.me/badge?page_id=shahi0121.shahi0121" title="Visitor Count">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=shahi0121.shahi0121" alt="Visitor Count"/>
-  </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=shahi0121&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
@@ -48,16 +46,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahi0121&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Wakatime Stats"/>
-</p>
-
 ---
 
 ## 🕵️‍♀️ Cyber Puzzle Challenge!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/thinking.gif" alt="Thinking detective" width="100"/>
+  <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/main/detective.gif" alt="Thinking detective" width="100"/>
 </p>
 
 Welcome, junior analyst! A suspicious email just landed in your inbox. It looks urgent and asks you to click a link to "verify your account." What's your first move?
@@ -74,9 +68,9 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
   The best first move is **1. 🕵️‍♀️ Examine the sender's email address and domain closely.** This is a key step in identifying phishing attempts. Never click suspicious links without verifying! Stay vigilant!
   <br><br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/sparkle.gif" alt="Sparkle" width="50"/>
+    <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/main/sparkle.gif" alt="Sparkle" width="50"/>
     *You've solved the puzzle! Security success!*
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/sparkle.gif" alt="Sparkle" width="50"/>
+    <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/main/sparkle.gif" alt="Sparkle" width="50"/>
   </p>
 </details>
 
@@ -85,7 +79,7 @@ Welcome, junior analyst! A suspicious email just landed in your inbox. It looks 
 ### 🌱 My Growing Projects (Coming Soon!)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Loading_bar.gif" alt="Loading bar" width="150"/>
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/GIF/loading_bar.gif" alt="Loading bar" width="150"/>
 </p>
 
 I'm currently nurturing ideas and writing my first lines of secure code! You'll soon find exciting projects here like:
@@ -104,9 +98,9 @@ Stay tuned as these digital seeds blossom into full-fledged projects! ✨
   <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  </p>
+</p>
 
 <p align="center">
   Thanks for stopping by! Let's build a safer digital world together! 🌐
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving goodbye" width="50"/>
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/GIF/hi.gif" alt="Waving goodbye" width="50"/>
 </p>
