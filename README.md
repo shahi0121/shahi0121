@@ -7,6 +7,16 @@
 
 ---
 
+### 💻 About Me:
+
+- 🎓 I’m a Cyber Security Student  
+- 🕵️‍♀️ Passionate about Ethical Hacking & Digital Safety  
+- 💡 Exploring AI, Linux, and Data Privacy  
+- 📚 Always learning and building cool tech  
+- ✨ Believe in growth, grit, and goals
+
+---
+
 ### 🛠️ Tech Stack I Work With:
 
 <p align="center">
@@ -25,12 +35,11 @@
 
 ---
 
-### 🔗 Let’s Connect!
+### 🌐 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Portfolio Website](https://yourportfolio.site)
-
-📫 Always open for collabs, learning & creative challenges.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 🌍 [Portfolio Website](https://yourportfolio.site)
+- 📩 Reach out for collabs, content, or cyber talk!
 
 ---
 
@@ -38,3 +47,8 @@
 
 > “Creativity is intelligence having fun.” – *Albert Einstein*
 
+---
+
+<p align="center">
+  Made with ❤️ by **[Your Name Here]**
+</p>
