@@ -44,11 +44,15 @@
 
 ### ⚡ Tech Stack
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-2962FF?style=flat-square&logo=cisco)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,html,css,js,git,github,bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-2962FF?style=flat-square&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
