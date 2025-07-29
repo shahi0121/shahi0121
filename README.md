@@ -23,7 +23,7 @@
 
 ## 🌸 Welcome to My Digital Garden! 🌸
 
-Hey there! I'm a passionate cybersecurity student digging into the fascinating world of digital defense and offense. Think of my GitHub as a little corner where I'm planting seeds of knowledge, growing my skills, and learning to protect our digital future! 🌱
+Hey there! I'm Shalini Dhiman, a passionate cybersecurity student digging into the fascinating world of digital defense and offense. Think of my GitHub as a little corner where I'm planting seeds of knowledge, growing my skills, and learning to protect our digital future! 🌱
 
 **My current tools and tech adventures include:**
 
@@ -34,7 +34,7 @@ Hey there! I'm a passionate cybersecurity student digging into the fascinating w
 I'm on a journey to become a skilled guardian of the digital realm, constantly learning, experimenting, and growing. Let's connect and share the cybersecurity magic! ✨
 
 <p>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   </p>
@@ -42,5 +42,9 @@ I'm on a journey to become a skilled guardian of the digital realm, constantly l
 ---
 
 ## 🎮 Play a Little Game!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNmbTR2aWJ3OHlxaG9rYnF4b3Rwa2NsbjExaW94NjRrd3VqcnUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqU3s8vB94Xm75q8Vf/giphy.gif" alt="Pixelated Game Character" width="100"/>
+</p>
 
 Let's imagine a tiny game to brighten your visit! Imagine you're a little pixelated character navigating a digital maze. Your goal? To find the hidden "Secure Code Gem"!
