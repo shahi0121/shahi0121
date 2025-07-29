@@ -1,6 +1,6 @@
 <!-- Centered Intro -->
 <h1 align="center">Hi 👋, I'm Shalini</h1>
-<h3 align="center">💻 Cybersecurity | 👩‍💻 Wireshark Ninja | 🐧 Linux Explorer | 💥 SQL Sleuth</h3>
+<h3 align="center">💻 Welcome to my Tech Space</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xUOwGchzGfF8x7awt2/giphy.gif" width="200" />
@@ -20,11 +20,13 @@
 
 ---
 
-### 🌸 Anime Moodboard
+### 🌸 Anime Moodboard — *Dreamy Hacker Vibes*
 <p align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ2bnhvY2R5bXNyemdzdmgyM2tyZmhjNGdsejhlbnU0Y3k3Z3oxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0GqssRweIhlz209i/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/M9WbJlsUM8QfC/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150">
 </p>
 
 ---
@@ -39,10 +41,10 @@
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
