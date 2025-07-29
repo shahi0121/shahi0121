@@ -1,54 +1,75 @@
-<h1 align="center">Welcome to my profile 👋</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Typing Animation</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #fff;
+      font-family: 'Courier New', monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    .typing-container {
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #fff;
+      font-size: 1.5rem;
+      width: 0;
+      animation: typing 3s steps(40, end) forwards, blink 0.75s step-end infinite;
+    }
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D57&center=true&vCenter=true&multiline=true&width=600&lines=Cyber+Security+Student+%7C+Ethical+Hacking+Enthusiast;Dreaming+Big+%7C+Learning+Daily+%F0%9F%A7%9A;Welcome+to+my+tech+space!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
 
----
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
 
-### 🛠️ Tech Stack I Work With:
+    .line {
+      display: none;
+    }
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,linux,bash,git,github" />
-</p>
+    .line.show {
+      display: block;
+      animation: typing 3s steps(40, end) forwards, blink 0.75s step-end infinite;
+    }
+  </style>
+</head>
+<body>
 
----
+  <div class="typing-container line" id="line1">
+    Cyber Security Student | Ethical Hacking Enthusiast
+  </div>
+  <div class="typing-container line" id="line2">
+    🌟 Dreaming Big | Learning Daily 🧚
+  </div>
+  <div class="typing-container line" id="line3">
+    🚀 Welcome to my tech space! 🚀
+  </div>
 
-### 📊 GitHub Stats:
+  <script>
+    const lines = document.querySelectorAll('.line');
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
+    function showLine(index) {
+      if (index < lines.length) {
+        lines[index].classList.add('show');
+        setTimeout(() => {
+          showLine(index + 1);
+        }, 4000); // Wait before showing next line
+      }
+    }
 
----
+    showLine(0);
+  </script>
 
-### 🔗 Let’s Connect!
-
-- 🌐 [My Portfolio](https://yourportfolio.site)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📧 Reach me: **your.email@example.com**
-- 🤝 Open to: *Collaborations · Freelance Projects · Internships · Tech Talks*
-
----
-
-### ✨ Fun Quote
-
-> “Creativity is intelligence having fun.”  
-> — *Albert Einstein*
-
----
-
-### 🚀 About Me
-
-- 🎓 Currently pursuing **B.Tech in Cyber Security**
-- 💻 Exploring **Ethical Hacking, Linux, and Web App Security**
-- ✍️ Building: *Dreamy Wardrobe – A Pinterest-style shopping web app*
-- 🌱 Learning: **Network Security · Web Exploitation · Python Automation**
-- 🧠 Passionate about **Tech, Design, and Digital Freedom**
-- 🌈 Fun fact: I turn coffee ☕ into secure code 🛡️
-
----
-
+</body>
+</html>
