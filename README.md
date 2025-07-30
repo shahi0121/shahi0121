@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
 
 ---
 
@@ -16,17 +16,12 @@
 
 ---
 
-### 🌼 Contribution Bloom Graph
+## 🐍 Snake Eating Contributions
+![snake gif](https://raw.githubusercontent.com/shahi0121/shahi0121/output/github-contribution-grid-snake.svg)
 
-<!-- Make sure this file exists at the path below -->
-<img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/BloomGraph/bloom.svg" alt="Contribution Bloom" width="100%"/>
+## 🌸 Bloom Graph of My Commits
+![Bloom Graph](https://github.com/shahi0121/shahi0121/blob/main/BloomGraph/bloom-contribution.svg)
 
----
-
-### 🐍 Snake Eating My Contributions
-
-<!-- Snake animation - automatically updates your contribution graph -->
-![snake gif](https://github.com/shahi0121/shahi0121/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 ---
 
