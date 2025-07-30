@@ -54,8 +54,10 @@ Always excited to collaborate on meaningful projects or just vibe over design, t
 </p>
 
 <p>
-🔗 <strong>Let's Connect on LinkedIn:</strong>  
-<a href="https://www.linkedin.com/in/shalinidhiman" target="_blank">https://www.linkedin.com/in/shalinidhiman</a>
+<a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" style="vertical-align:middle; margin-right:8px;" />
+  www.linkedin.com/in/shalini-dhiman-5b9529282
+</a>
 </p>
 
 <!-- Bloom Unscreencut GIF - Bottom Right -->
