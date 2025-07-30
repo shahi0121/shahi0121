@@ -1,64 +1,54 @@
-<h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Learner | Kali Linux Explorer | Anime Enthusiast 💻🌸</h3>
+<h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
+<h3 align="center">Cybersecurity Learner | Exploring Ethical Hacking 🔐</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/df/2c/7f/df2c7f958f4f7cc48e4e7f5c408084d3.gif" width="250"/>
-</p>
-
----
-
-### 💫 About Me:
-- 🎓 B.Tech in Cyber Security | 3rd Year
-- 💻 Currently diving into **Ethical Hacking** using **Kali Linux**
-- 🌱 Learning **Linux**, **Shell Scripting**, **Networking Basics**
-- 🌐 Passionate about becoming a Government Officer + Tech Expert
-- 📚 Studying for **PCS Exam** + Cyber Skills together 🧠
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f4/1e/af/f41eaf62dfe3e888b424a4c3c614cf1d.gif" width="300"/>
+</div>
 
 ---
 
-### 🚀 Tech Stack:
+### 🧑‍💻 About Me:
+- 🔭 I’m currently exploring **Kali Linux & Ethical Hacking**
+- 🌱 Currently learning about cybersecurity tools, bash scripting & penetration testing.
+- ✍️ I’m building my developer portfolio & writing content too.
+- 📫 How to reach me: **[YourEmailHere@gmail.com]**
+
+---
+
+### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,mysql,html,css,js,canva,vscode,kali" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourGitHubUsername&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Tools & Platforms:
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Currently Exploring:
-- Ethical Hacking (Tools like Nmap, Wireshark, Metasploit)
-- Linux Commands & Bash
-- GitHub Projects & Open Source
-
----
-
-### 📫 Connect With Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:youremail@example.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
-  </a>
-</p>
-
----
-
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Learning+Everyday+🧠;Cybersecurity+Explorer+🔐;Anime+Lover+🌸" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourGitHubUsername&theme=radical&no-bg=true&no-frame=true" />
 </p>
+
+---
+
+### ✨ Fun Fact:
+> `"You don’t need to be perfect. You just need to be real."`
+
+---
+
+💖 *Thanks for visiting my profile! Let’s connect and grow together in tech!*
+
