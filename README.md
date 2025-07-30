@@ -1,59 +1,57 @@
 <h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="250" height="250" alt="anime-gif" />
+<div align="center">
+  <img src="https://media.tenor.com/lOHnW4v1BF4AAAAC/anime-girl.gif" width="400"/>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 I’m currently pursuing **B.Tech in Cybersecurity**
+- 🔐 Passionate about **Ethical Hacking**, **Forensics**, and **Bug Bounties**
+- 🌱 Currently learning **Linux**, **Python**, and **Network Security**
+- 🌍 Aiming for **PCS Exam** to become a proud officer one day 👩‍⚖️
+
+---
+
+## 💼 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shalini-dhiman-5b9529282" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 👩‍💻 B.Tech Cyber Security Student (GNA University)
-- 🎯 Aspiring Punjab Civil Services (PCS) Officer – SDM, BDO, etc.
-- 🧠 Currently learning Ethical Hacking, Cyber Law, and Web Development
-- 🖥️ Building a Pinterest-style shopping site "Dreamy Wardrobe"
-- 📝 Freelance Content Writer | Canva Designer | Skincare Blogger
+## 🚀 Tech Stack
 
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-dhiman-5b9529282)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahi0121)
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,bash,vscode,canva,python,java,windows" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
 </p>
 
 ---
 
-### 🎮 Just for Fun: My Game Showcase
+## 🎮 Just for Fun
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" height="250" alt="game-preview" />
+  <img src="https://raw.githubusercontent.com/Shrey27a/Shrey27a/output/pacman-contribution-graph-dark.svg" alt="Game Graph" />
 </p>
 
-> 🕹️ *Interactive fun game just for show-off! Try catching coins & dodging obstacles like a pro.*
+---
 
-📌 Coming Soon: [Live Game Page (GitHub Pages)](https://shahi0121.github.io/)
+## 🖤 Support Me
+If you like my profile or find my content helpful, consider dropping a ⭐️ on my repos!  
+Always happy to connect and collaborate on cool ideas 💡
 
 ---
 
-### 🌓 Theme Toggle
-> Preview this profile in light or dark mode based on your GitHub settings 🌗
+### 🌗 Dark/Light Mode Friendly — GitHub automatically adapts.
 
----
-
-<style>
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
-}
-</style>
-
----
-
-<p align="center">✨ Let’s build something magical ✨</p>
