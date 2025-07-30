@@ -43,7 +43,23 @@
 ![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight)
 
 ---
+<hr/>
+
+<h2>📬 Contact Me</h2>
+
+<p>
+Hi there! I'm <strong>Shalini Dhiman</strong> — a passionate <strong>Content Writer</strong>, creative <strong>Graphic Designer</strong>, and an enthusiastic <strong>Cybersecurity Explorer</strong>.  
+I love blending creativity with tech — whether it's writing engaging blogs, crafting aesthetic visuals, or diving into digital security.  
+Always excited to collaborate on meaningful projects or just vibe over design, tech & dreams 🌈✨  
+</p>
+
+<p>
+🔗 <strong>Let's Connect on LinkedIn:</strong>  
+<a href="https://www.linkedin.com/in/shalinidhiman" target="_blank">https://www.linkedin.com/in/shalinidhiman</a>
+</p>
+
 <!-- Bloom Unscreencut GIF - Bottom Right -->
 <div align="right">
   <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="320" />
 </div>
+
