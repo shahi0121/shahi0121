@@ -2,11 +2,14 @@
   <!-- Header Animation -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3diNTd5MnJzbWhncHM1czZyeDBlbDB5cTNpZGYwYWJvZjNwYmtmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Header Animation" width="400" />
 
-  <!-- Bloom Unscreencut GIF -->
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="200" style="margin-left: 20px;" />
+  <!-- Right-Aligned Bigger Bloom GIF -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="300" />
+</div>
+
 </div>
 <h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
 
 ---
 
