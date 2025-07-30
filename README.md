@@ -3,32 +3,48 @@
 
 ---
 
-<h2 align="center">🌸 Bloom Graph Contribution Calendar</h2>
+### 🪄 About Me
+
+- 🎓 B.Tech Cybersecurity Student | 5th Sem  
+- 🌟 Dreaming big, working smart  
+- 💼 Building “Dreamy Wardrobe” shopping site  
+- 🧠 Always learning | Ethical Hacking | PCS Aspirant  
+- 📍 Ludhiana, Punjab | 🇮🇳  
+
+---
+
+### 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/bloomGraph.svg" alt="BloomGraph" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,linux,canva,vscode,github" />
 </p>
 
 ---
 
-🔄 This is an auto-generated SVG showing your GitHub contributions in a **bloom flower style**.  
-It updates daily using a GitHub Action!
-
-🎨 Inspired by: [github-contribution-tree](https://github.com/rodrigograca31/github-contribution-tree)
-
----
-
-<h2 align="center">🎮 My Mini Snake Game</h2>
+### 🌼 Contribution Bloom Graph
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/000000000-00000000-0000-0000-0000-000000000000.gif" alt="Snake Game Demo" />
+  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/output/snake.svg" width="100%" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/ashutosh00710/cf-stats@master/generated/overview.svg#gh-dark-mode-only" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/ashutosh00710/cf-stats@master/generated/languages.svg#gh-dark-mode-only" />
 </p>
-
-🕹️ This is a mini snake game built with HTML, CSS, and JavaScript.  
-You can try the live version here 👉 [Play Now](https://shahi0121.github.io/SnakeGame/)  
-📁 Code available in the `SnakeGame` folder.
 
 ---
 
-📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shalinidhiman)  
-✉️ Drop a mail: shalini@example.com
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://github.com/shahi0121/shahi0121/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🔗 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)  
+- 📌 [GitHub Projects](https://github.com/shahi0121)  
+
+---
+
+✨ *“Keep growing like flowers, bloom in silence.”*  
