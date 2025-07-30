@@ -4,7 +4,12 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/> <br><b>HTML5</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/> <br><b>CSS3</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> <br><b>JavaScript</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/> <br><b>PHP</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> <br><b>MySQL</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <br><b>Python</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <br><b>Linux</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> <br><b>VS Code</b> </p> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/> <br><b>GitHub</b> </p> <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="60" height="60"/> <br><b>Canva</b> </p>
+🧠 Tech Stack I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,linux,git,github,vscode&perline=11" />
+</p>
+
 
 ---
 
