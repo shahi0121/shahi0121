@@ -1,54 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Learner | Exploring Ethical Hacking 🔐</h3>
+<h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | PCS Aspirant 🚀</h3>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f4/1e/af/f41eaf62dfe3e888b424a4c3c614cf1d.gif" width="300"/>
-</div>
-
----
-
-### 🧑‍💻 About Me:
-- 🔭 I’m currently exploring **Kali Linux & Ethical Hacking**
-- 🌱 Currently learning about cybersecurity tools, bash scripting & penetration testing.
-- ✍️ I’m building my developer portfolio & writing content too.
-- 📫 How to reach me: **[YourEmailHere@gmail.com]**
-
----
-
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourGitHubUsername&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://i.pinimg.com/originals/b7/f4/36/b7f4366e4a9cbd83644cc102bc9e2294.gif" width="220" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## 🧠 About Me
+- 🎓 B.Tech Cyber Security Student  
+- 💻 Learning Ethical Hacking, Linux, and Network Security  
+- 🎯 PCS Aspirant (Future SDM 🌟)  
+- 💼 Content Writer | Canva Designer | Tech Explorer  
+- 💖 Building my dream project: `Dreamy Wardrobe`
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourGitHubUsername&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,linux,ubuntu,vscode,git,html,css,js,canva" />
 </p>
 
 ---
 
-### ✨ Fun Fact:
-> `"You don’t need to be perfect. You just need to be real."`
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahi0121&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-💖 *Thanks for visiting my profile! Let’s connect and grow together in tech!*
+## 🔥 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahi0121&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Badges & Learning Goals
+
+- ✅ Microsoft Learn: PowerShell
+- ✅ ISC2 Cybersecurity Badge
+- 🛠️ Working on: HackTheBox Labs, Cybersecurity Projects, Dreamy Wardrobe (PHP+MySQL)
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalini-dhiman/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:shalinidhiman0121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.pinterest.com/yourdreamsincode/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red?logo=pinterest&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ "Turning Dreams into Code" ✨
+</p>
