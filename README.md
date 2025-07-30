@@ -17,7 +17,6 @@
 
 ---
 
-### 🌼 Contribution Bloom Graph
 
 ### 🌼 Contribution Bloom Graph:
 [![Shalini’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahi0121&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
