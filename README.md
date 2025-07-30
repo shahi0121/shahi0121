@@ -1,50 +1,49 @@
 <h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Learner | Ethical Hacking in Progress</h3>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="200" />
-  <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
-</div>
-
----
-
-### 🧿 About Me
-- 🎓 B.Tech Cybersecurity | 3rd Year  
-- 🎯 Aspiring Ethical Hacker + Tech Explorer  
-- 🔐 Cybersecurity | Linux | Network Security  
-- 🌱 Learning Web Dev + Tools like Burp Suite, Wireshark  
-- 📬 Connect: **[LinkedIn](https://www.linkedin.com/in/shalini-dhiman-5b9529282)**
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem80dnp0ajlodHQwcnc4YjBhbG5oY3Z1eWpwdTlhaXl2OHIzZjFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
 </p>
 
 ---
 
-### 🎮 Game Zone
-> Checkout a fun game made with pure HTML/CSS/JS ✨  
->  
-> 🔗 [Play Now](https://shalinidhiman.github.io/anime-jump/)  
-> ![Game Preview](https://github.com/Devanshu232004Rastogi/Devanshu232004Rastogi/blob/main/Assets/game.gif?raw=true)
+## 🎮 Game Showcase
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/dark-preview.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/light-preview.gif" />
+    <img alt="Game Preview" src="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/light-preview.gif" width="100%" />
+  </picture>
+</p>
 
 ---
 
-### 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-dhiman-5b9529282)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shalinidhiman)
+## 🌟 Features
+
+- 🪙 Collect Coins
+- 🌫️ Animated Clouds
+- 🧍‍♀️ Cute Character with Growing Size
+- 🪨 Stones, Hurdles, Floating Elements
+- 🎨 Aesthetic Background Vibes
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Keep+Learning+%F0%9F%9A%80;Hack+the+World+%F0%9F%94%90;Cybersecurity+is+Fun+%F0%9F%A4%96" />
-</div>
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Animations & Styling)
+- JavaScript (DOM Logic)
+- Giphy Assets & PNG Sprites
+
+---
+
+## 🔗 Live Demo & Links
+
+- 🚀 **Game Link:** *Coming Soon*
+- 👩‍💼 **LinkedIn:** [Shalini Dhiman](https://www.linkedin.com/in/shalini-dhiman-5b9529282)
+
+---
+
+## 📂 Project Structure
+
