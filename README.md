@@ -3,44 +3,34 @@
 
 ---
 
-### 🪷 About Me:
-- 🔐 B.Tech Cyber Security Student  
-- 🧠 Dreamer, Creator & Learner  
-- 👑 PCS Aspirant (Future SDM)  
-- 🛍️ Founder of Dreamy Wardrobe (Web Dev in Progress)  
-- ✍️ Pinterest Affiliate | Content Writer  
-- 💻 Learning Ethical Hacking, Cyber Laws, PowerShell, Linux, SQL  
+### 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/-Linux-772953?style=flat-square&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-### 💻 Tech Stack:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-</p>
+### 🌼 Contribution Bloom Graph
+
+![Shalini's bloom graph](https://github.com/shahi0121/shahi0121/raw/main/BloomGraph/bloom.svg)
 
 ---
 
-### 🌼 Contribution Bloom Graph:
-[![Shalini’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahi0121&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 Snake Eating My Contributions
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🐍 Snake Eating My Contributions:
-![snake gif](https://raw.githubusercontent.com/shahi0121/shahi0121/output/github-contribution-grid-snake.svg)
+### 📈 GitHub Stats
 
----
-
-### 📫 Connect with me:
-- 📍 Ludhiana, Punjab  
-- 📌 Instagram: [@shalinidreams_](https://www.instagram.com/shalinidreams_)  
-- 📌 Pinterest: [Dreamy Wardrobe](https://www.pinterest.com/shalinidreams_/)
+![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight)
 
 ---
