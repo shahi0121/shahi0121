@@ -2,48 +2,58 @@
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem80dnp0ajlodHQwcnc4YjBhbG5oY3Z1eWpwdTlhaXl2OHIzZjFrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="250" height="250" alt="anime-gif" />
 </p>
 
 ---
 
-## 🎮 Game Showcase
+### 🌟 About Me
+- 👩‍💻 B.Tech Cyber Security Student (GNA University)
+- 🎯 Aspiring Punjab Civil Services (PCS) Officer – SDM, BDO, etc.
+- 🧠 Currently learning Ethical Hacking, Cyber Law, and Web Development
+- 🖥️ Building a Pinterest-style shopping site "Dreamy Wardrobe"
+- 📝 Freelance Content Writer | Canva Designer | Skincare Blogger
 
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-dhiman-5b9529282)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahi0121)
+
+---
+
+### 🛠️ Languages & Tools
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/dark-preview.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/light-preview.gif" />
-    <img alt="Game Preview" src="https://raw.githubusercontent.com/akshatmittal61/Preview-GIFs/main/light-preview.gif" width="100%" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,bash,vscode,canva,python,java,windows" />
 </p>
 
 ---
 
-## 🌟 Features
+### 🎮 Just for Fun: My Game Showcase
+<p align="center">
+  <img src="https://media2.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" height="250" alt="game-preview" />
+</p>
 
-- 🪙 Collect Coins
-- 🌫️ Animated Clouds
-- 🧍‍♀️ Cute Character with Growing Size
-- 🪨 Stones, Hurdles, Floating Elements
-- 🎨 Aesthetic Background Vibes
+> 🕹️ *Interactive fun game just for show-off! Try catching coins & dodging obstacles like a pro.*
 
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3 (Animations & Styling)
-- JavaScript (DOM Logic)
-- Giphy Assets & PNG Sprites
+📌 Coming Soon: [Live Game Page (GitHub Pages)](https://shahi0121.github.io/)
 
 ---
 
-## 🔗 Live Demo & Links
-
-- 🚀 **Game Link:** *Coming Soon*
-- 👩‍💼 **LinkedIn:** [Shalini Dhiman](https://www.linkedin.com/in/shalini-dhiman-5b9529282)
+### 🌓 Theme Toggle
+> Preview this profile in light or dark mode based on your GitHub settings 🌗
 
 ---
 
-## 📂 Project Structure
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+}
+</style>
 
+---
+
+<p align="center">✨ Let’s build something magical ✨</p>
