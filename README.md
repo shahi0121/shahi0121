@@ -1,29 +1,46 @@
 <h1 align="center">Hey 👋, I'm Shalini Dhiman</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress </h3>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker in Progress | Future SDM 🚀</h3>
 
 ---
 
-### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+### 🪷 About Me:
+- 🔐 B.Tech Cyber Security Student  
+- 🧠 Dreamer, Creator & Learner  
+- 👑 PCS Aspirant (Future SDM)  
+- 🛍️ Founder of Dreamy Wardrobe (Web Dev in Progress)  
+- ✍️ Pinterest Affiliate | Content Writer  
+- 💻 Learning Ethical Hacking, Cyber Laws, PowerShell, Linux, SQL  
 
 ---
 
-## 🐍 Snake Eating Contributions
+### 💻 Tech Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+</p>
+
+---
+
+### 🌼 Contribution Bloom Graph:
+[![Shalini’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahi0121&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Snake Eating My Contributions:
 ![snake gif](https://raw.githubusercontent.com/shahi0121/shahi0121/output/github-contribution-grid-snake.svg)
 
-## 🌸 Bloom Graph of My Commits
-![Bloom Graph](https://github.com/shahi0121/shahi0121/blob/main/BloomGraph/bloom-contribution.svg)
-
-
 ---
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-Shalini%20Dhiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalini-dhiman-5b9529282/)](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
+### 📫 Connect with me:
+- 📍 Ludhiana, Punjab  
+- 📌 Instagram: [@shalinidreams_](https://www.instagram.com/shalinidreams_)  
+- 📌 Pinterest: [Dreamy Wardrobe](https://www.pinterest.com/shalinidreams_/)
+
+---
