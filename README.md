@@ -3,48 +3,51 @@
 
 ---
 
-### 🪄 About Me
+### 💫 About Me
 
-- 🎓 B.Tech Cybersecurity Student | 5th Sem  
-- 🌟 Dreaming big, working smart  
-- 💼 Building “Dreamy Wardrobe” shopping site  
-- 🧠 Always learning | Ethical Hacking | PCS Aspirant  
-- 📍 Ludhiana, Punjab | 🇮🇳  
+- 🔭 I’m currently working on: **Dreamy Wardrobe (Aesthetic Shopping Website)**
+- 🌱 I’m currently learning: **Ethical Hacking, PowerShell, PCS Exam Prep**
+- 👯 I’m looking to collaborate on: **Cybersecurity Projects, Content Writing**
+- 💬 Ask me about: **Web Security, PHP Projects, Pinterest Growth, Resume Building**
+- 📫 How to reach me: **[your.email@example.com]**
+- 📄 Know more about my work: [Portfolio Link]
 
 ---
 
-### 💻 Tech Stack  
+### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,linux,canva,vscode,github" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌼 Contribution Bloom Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/output/snake.svg" width="100%" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/ashutosh00710/cf-stats@master/generated/overview.svg#gh-dark-mode-only" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/ashutosh00710/cf-stats@master/generated/languages.svg#gh-dark-mode-only" />
-</p>
+<a href="https://skyline.github.com/shahi0121/2024">
+  <img src="https://github.com/shahi0121/shahi0121/blob/main/bloom.svg" alt="Contribution Bloom Graph" />
+</a>
 
 ---
 
 ### 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://github.com/shahi0121/shahi0121/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-### 🔗 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)  
-- 📌 [GitHub Projects](https://github.com/shahi0121)  
+### 📊 GitHub Stats
 
----
-
-✨ *“Keep growing like flowers, bloom in silence.”*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&locale=en" alt="github stats" />
+</p>
