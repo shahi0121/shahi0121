@@ -3,51 +3,32 @@
 
 ---
 
-### 💫 About Me
-
-- 🔭 I’m currently working on: **Dreamy Wardrobe (Aesthetic Shopping Website)**
-- 🌱 I’m currently learning: **Ethical Hacking, PowerShell, PCS Exam Prep**
-- 👯 I’m looking to collaborate on: **Cybersecurity Projects, Content Writing**
-- 💬 Ask me about: **Web Security, PHP Projects, Pinterest Growth, Resume Building**
-- 📫 How to reach me: **[your.email@example.com]**
-- 📄 Know more about my work: [Portfolio Link]
-
----
-
-### 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
 ### 🌼 Contribution Bloom Graph
 
-<a href="https://skyline.github.com/shahi0121/2024">
-  <img src="https://github.com/shahi0121/shahi0121/blob/main/bloom.svg" alt="Contribution Bloom Graph" />
-</a>
+<!-- Make sure this file exists at the path below -->
+<img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/BloomGraph/bloom.svg" alt="Contribution Bloom" width="100%"/>
 
 ---
 
 ### 🐍 Snake Eating My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<!-- Snake animation - automatically updates your contribution graph -->
+![snake gif](https://github.com/shahi0121/shahi0121/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&locale=en" alt="github stats" />
-</p>
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-Shalini%20Dhiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalini-dhiman-5b9529282/)](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
