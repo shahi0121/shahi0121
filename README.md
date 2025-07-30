@@ -1,10 +1,6 @@
 <div align="center">
   <!-- Header Animation -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3diNTd5MnJzbWhncHM1czZyeDBlbDB5cTNpZGYwYWJvZjNwYmtmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Header Animation" width="400" />
-
-  <!-- Right-Aligned Bigger Bloom GIF -->
-<div align="right">
-  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="300" />
 </div>
 
 </div>
@@ -47,3 +43,7 @@
 ![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahi0121&show_icons=true&theme=tokyonight)
 
 ---
+<!-- Bloom Unscreencut GIF - Bottom Right -->
+<div align="right">
+  <img src="https://raw.githubusercontent.com/shahi0121/shahi0121/main/assets/bloom-unscreen.gif" alt="Bloom Animation" width="320" />
+</div>
